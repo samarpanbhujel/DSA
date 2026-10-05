@@ -1,4 +1,4 @@
-package BinarySearch.BubbleSort;
+package BubbleSort;
 
 public class Main {
 
